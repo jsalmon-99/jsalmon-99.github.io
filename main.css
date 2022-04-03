@@ -15,7 +15,7 @@ body{
 }
 .name{
     font-size: 14.4vh;
-    position: relative;
+    position: absolute;
     z-index: 1;
     width: 100vh;
     top: 100%;
