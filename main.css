@@ -14,7 +14,7 @@ body{
     flex-direction: row;
 }
 .name{
-    font-size: 14.4vh;
+    font-size: 16vh;
     position: absolute;
     z-index: 1;
     width: 100vh;
@@ -22,5 +22,6 @@ body{
     padding: 130px 10px 5px 10px;
     transform: rotate(-90deg) translateY(-50%);
     transform-origin: top left;
+    text-align: center;
     background-color: rgb(162, 14, 14);
 }
